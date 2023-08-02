@@ -133,5 +133,5 @@ int main(int argc, char *argv[]) {
 }
 
 void helpFunction() {
-    printf("help message")
+    printf("help message");
 }
