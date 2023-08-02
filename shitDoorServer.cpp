@@ -133,9 +133,5 @@ int main(int argc, char *argv[]) {
 }
 
 void helpFunction() {
-    printf("This program built by yourAnonDH.\n");
-    printf("You can run this program by defining the host & port\n");
-    printf("of the program which should be like this:\n");
-    printf("./shitdoor port address\n");
-    printf("for example: ./shitdoor 8080 192.168.1.103");
+    printf("help message")
 }
