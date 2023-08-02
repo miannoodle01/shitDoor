@@ -103,11 +103,6 @@ char terminalOutput(const char *termIn) {
 }
 
 void helpFunction() {
-    printf("This shit door built by yourAnonDH\n");
-    printf("You may use it like this:\n");
-    printf("./shitDoorClient address port\n");
-    printf("For example:\n");
-    printf("./shitDoorClient 127.0.0.1 8080\n");
-    printf("First run the server then client!! Do not forget...\n");
+    printf("help message");
     exit(EXIT_SUCCESS);
 }
